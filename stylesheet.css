@@ -1,14 +1,17 @@
 body{
 	background-color: lightblue;
 	text-align:center;
+	color: solid black;
 }
 
 p{
 	font-size=50%;
+	color: solid black;
 }
 
 ul{
 	text-align:left;
+	color: solid black;
 }
 
 div{
@@ -16,3 +19,13 @@ div{
 	margin-right:auto;
 	width:500px;
 }
+
+.borderPics{
+	padding:25px;
+	border:  solid black;
+}
+
+.columnLeft{
+	float:left;
+}
+
